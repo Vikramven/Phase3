@@ -1,5 +1,6 @@
 /* Java program for solution of 
-   M Coloring problem using backtracking */
+   M Coloring problem using backtracking 
+   used code of methods from phase 1*/
 public class ColoringProblem 
 {
     final int V = 4;
