@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Iterator;
 import java.io.*;
-
+//read graph provided to us in phase 1
 class ColEdge
 			{
 			int u;
